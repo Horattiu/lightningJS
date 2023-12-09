@@ -1,0 +1,6 @@
+{
+  "name": "lightning",
+  "identifier": "com.domain.app.lightning",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
